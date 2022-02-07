@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Hello world"
-date
+echo "Tere! Tänane kuupäev on:"
+date +%d/%m/%Y
